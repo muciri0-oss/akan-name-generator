@@ -25,7 +25,6 @@ Peterson Muciri
 - JavaScript
 
 ## Live Site
-https:// muciri0-oss.github.io/akan-name-generator/
-
+ https://muciri0-oss.github.io/akan-name-generator/
 ## License
 MIT License
